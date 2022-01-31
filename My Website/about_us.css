@@ -1,0 +1,47 @@
+.title{
+    font-weight: bold;
+}
+.text{
+    width: 1000px;
+}
+
+.decoration{
+    text-decoration: none; 
+    color:black;
+    padding-left: 470px;
+    font-size:larger
+}
+
+.text{
+    text-decoration: none;
+    color: black;
+    padding-left: 50px;
+    font-size:larger
+}
+
+.type{
+    text-decoration: none;
+    color: black;
+    padding-left: 50px;
+    font-size:larger
+}
+
+.typo{
+    text-decoration: none;
+    color: black;
+    padding-left: 50px;
+    font-size:larger
+}
+
+.tt{
+    text-decoration: none;
+    color: black;
+    padding-left: 50px;
+    font-size:larger
+}
+.link{
+    text-decoration: none;
+}
+
+
+
